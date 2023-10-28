@@ -1,8 +1,8 @@
 ![Workegle Logo](./misc/workegle-readme_logo.png)
 
-# 👔 Workgle: Your Professional Connection Catalyst
+# 👔 Workegle: Your Professional Connection Catalyst
 
-Workgle is a platform designed to foster professional connections in a casual, real-time environment. Just like Omegle, it facilitates spontaneous interactions, but with a focus on professional networking and growth.
+Workegle is a platform designed to foster professional connections in a casual, real-time environment. Just like Omegle, it facilitates spontaneous interactions, but with a focus on professional networking and growth.
 
 ## Features
 
@@ -21,7 +21,7 @@ Workgle is a platform designed to foster professional connections in a casual, r
 
 ## Contribute
 
-Workgle is an open platform and we encourage the community to contribute to its development. Check our GitHub repository for open issues or propose new features.
+Workegle is an open platform and we encourage the community to contribute to its development. [Check our GitHub repository for open issues or propose new features](https://github.com/ludovicobesana/Workegle/issues).
 
-[Join Workgle and start networking the modern way!](http://websitename.com)
+<!-- [Join Workegle and start networking the modern way!](http://websitename.com) -->
 
