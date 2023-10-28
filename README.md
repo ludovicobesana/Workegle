@@ -1,4 +1,6 @@
-# Workgle: Your Professional Connection Catalyst
+![Workegle Logo](./misc/workegle-readme_logo.png)
+
+# 👔 Workgle: Your Professional Connection Catalyst
 
 Workgle is a platform designed to foster professional connections in a casual, real-time environment. Just like Omegle, it facilitates spontaneous interactions, but with a focus on professional networking and growth.
 
