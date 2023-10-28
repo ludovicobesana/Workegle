@@ -1,4 +1,6 @@
-![Workegle Logo](./misc/workegle-readme_logo.png)
+<p align="center">
+  <img src="./misc/workegle-readme_logo.png" alt="Workegle Logo">
+</p>
 
 # 👔 Workegle: Your Professional Connection Catalyst
 
