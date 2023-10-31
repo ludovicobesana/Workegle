@@ -1,0 +1,55 @@
+name: User Story
+description: Suggest a new feature or improvement by telling us your story.
+title: "[USER STORY] "
+labels: ["user story"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        📝 Please fill out this form carefully. 
+        🕵️ Check existing stories to avoid duplicates.
+        📚 Refer to our [Contribution Guidelines](<link-to-guidelines>).
+
+  - type: input
+    attributes:
+      label: Title
+      placeholder: "Short, descriptive title of the story."
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: As a...
+      placeholder: "e.g., As a user"
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: I want to...
+      placeholder: "e.g., I want to be able to..."
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: So that...
+      placeholder: "e.g., So that I can..."
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Acceptance Criteria
+      placeholder: "List the conditions that must be fulfilled for this story to be considered complete."
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional Context
+      placeholder: "Any extra information that might be helpful."
+    validations:
+      required: false
