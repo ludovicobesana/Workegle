@@ -10,14 +10,7 @@ body:
       value: |
         📝 Please fill out this form carefully. 
         🕵️ Check existing stories to avoid duplicates.
-        📚 Refer to our [Contribution Guidelines](<link-to-guidelines>).
-
-  - type: input
-    attributes:
-      label: Title
-      placeholder: "Short, descriptive title of the story."
-    validations:
-      required: true
+        📚 Refer to our [Contribution Guidelines](#).
 
   - type: textarea
     attributes:
